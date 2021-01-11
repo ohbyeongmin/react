@@ -17,13 +17,13 @@
 
 ```javascript
 {
-"rootDir": "src",
-"compilerOptions": {
-    "baseUrl": "src",
-    "paths": {
-    "*": ["*"]
-    }
-}
+  "rootDir": "src",
+  "compilerOptions": {
+      "baseUrl": "src",
+      "paths": {
+      "*": ["*"]
+      }
+  }
 }
 ```
 
